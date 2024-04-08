@@ -104,6 +104,7 @@ body{
 
 .content {
     grid-area: content;
+
     background: #f6f7f9;
 
     display: flex;
@@ -213,5 +214,3 @@ input[type="button"]{
 
         width: 80%;
     }
-
-}
